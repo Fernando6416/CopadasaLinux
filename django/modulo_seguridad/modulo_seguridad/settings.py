@@ -104,7 +104,7 @@ DATABASES = {
         'HOST':'185.254.205.177',
         'PORT':'1528',
         'OPTIONS':{
-            'driver':'IBM INFORMIX ODBC DRIVER',
+            'driver':'IBM INFORMIX ODBC DRIVER (64-bit)',
             'dsn':'teampy',
         },
     },
@@ -117,8 +117,8 @@ DATABASES = {
         'HOST':'185.254.205.177',
         'PORT':'1528',
         'OPTIONS':{
-            'driver':'IBM INFORMIX ODBC DRIVER',
-            'dsn':'copadasa',
+            'driver':'IBM INFORMIX ODBC DRIVER (64-bit)',
+            'dsn':'Infdrv1',
         },
      }
 }      
